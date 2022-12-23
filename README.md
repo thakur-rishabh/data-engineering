@@ -1,3 +1,5 @@
 # Learning Data Engineering
 
-[&check;] Week 1
+## Week 1
+  - Postgres-docker [&check;]
+  - terraform-basics
