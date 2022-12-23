@@ -1,6 +1,4 @@
-# WEEK 1
-
-## Postgres docker
+# Postgres docker
 1. Create docker network `docker network create pg-network`
 
 2. Run docker container
