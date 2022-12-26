@@ -5,4 +5,4 @@
 
 ## Week 1
   - Postgres-docker [&check;]
-  - terraform-basics
+  - terraform-basics [&check;]
